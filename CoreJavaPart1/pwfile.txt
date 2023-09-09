@@ -1,0 +1,3 @@
+Hey there! this is CHARANYA.
+Today you're exploring the printWriter class.Hope you're having fun.
+Patience is the key when learning new concepts.
